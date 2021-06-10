@@ -9,9 +9,9 @@ def normalize(vector):
     
     return vector/v_mag
 
-def display(display):
-    for y in range(0,20):
-        for x in range(0,20):
+def display(display, size):
+    for y in range(0,size):
+        for x in range(0,size):
             print(display[x][y], end="")
         print()
 
@@ -24,30 +24,37 @@ def magnitude(vector):
 
 def lineTriangleIntersect(triangle, linePointA, linePointB, epsilon=1e-6):
 
-    linePointA[linePointA==0]=epsilon
-    linePointB[linePointB==0]=epsilon
+    # linePointA[linePointA==0]=epsilon
+    # linePointB[linePointB==0]=epsilon
     
     rayVector = linePointB-linePointA
-    
+    rayVector[rayVector==0]=epsilon
     
     triPoint0 = triangle[0]
     triPoint1 = triangle[1]
     triPoint2 = triangle[2]
-    triPoint0[triPoint0==0]=epsilon
-    triPoint1[triPoint1==0]=epsilon
-    triPoint2[triPoint2==0]=epsilon
+    # triPoint0[triPoint0==0]=epsilon
+    # triPoint1[triPoint1==0]=epsilon
+    # triPoint2[triPoint2==0]=epsilon
 
     edge1 = triPoint1-triPoint0
     edge2 = triPoint2-triPoint0
 
+    edge1[edge1==0]=epsilon
+    edge2[edge2==0]=epsilon
+
     h = np.cross(rayVector, edge2)
+    h[h==0]=epsilon
     a = np.dot(edge1, h)
+    # if(a==0):
+    #     exit()
 
     if(a>epsilon) and (a<epsilon):
         return False
+    np.seterr(all = "raise")
     
     f = 1.0 / a
-
+    
     s = linePointA - triPoint0
     u = f * np.dot(s, h)
     if (u<0.0 or u>1.0):
@@ -58,7 +65,7 @@ def lineTriangleIntersect(triangle, linePointA, linePointB, epsilon=1e-6):
         return False
     t = f * np.dot(edge2,q)
     if t>epsilon:
-        intersection = linePointA + rayVector * t
+        #intersection = linePointA + rayVector * t
 
         return True
     else:
