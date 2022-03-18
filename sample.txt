@@ -1,0 +1,704 @@
+
+
+
+
+
+                                                  OO
+                                              **OOOOOOWW
+                                            ****OOOOOOWWWW
+                                        ******OOOOOOOOOOWWWWWW
+                                    ********OOOOOOOOOOOOOOWWWWWWWW
+                                  ********OOOOOOOOOOOOOOOOOOWWWWWWWW
+                                **********OOOOOOOOOOOOOOOOOOWWWWWWWWWW
+                                ********OOOOOOOOOOOOOOOOOOOOOOWWWWWWWW
+                                ******OOOOOOOOOOOOOOOOOOOOOOOOOOWWWWWW
+                                ****OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWWWW
+                                ****OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWWWW
+                                **OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWW
+                                OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                **OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO**
+                                ****OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO****
+                                ****OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO****
+                                ******OOOOOOOOOOOOOOOOOOOOOOOOOO******
+                                ********OOOOOOOOOOOOOOOOOOOOOO********
+                                **********OOOOOOOOOOOOOOOOOO**********
+                                  ********OOOOOOOOOOOOOOOOOO********
+                                    ********OOOOOOOOOOOOOO********
+                                        ******OOOOOOOOOO******
+                                            ****OOOOOO****
+                                              **OOOOOO**
+                                                  OO
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                aaOOOO&&
+                                            aaaaOOOOOOOO&&&&
+                                        ooaaaaOOOOOOOOOOOO&&&&
+                                    ooooaaaaaaOOOOOOOOOOOO&&&&&&
+                                  ooooaaaaaaOOOOOOOOOOOOOOOO&&&&&&
+                              bbooooaaaaaaOOOOOOOOOOOOOOOOOOOO&&&&&&
+                                ooaaaaaaaaOOOOOOOOOOOOOOOOOOOOOO&&&&&&
+                                aaaaaaaaOOOOOOOOOOOOOOOOOOOOOOOO&&&&&&
+                              BBaaaaaaOOOOOOOOOOOOOOOOOOOOOOOOOOOO&&&&
+                              BB%%aaOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO&&
+                              BB%%aaOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                              BB%%OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                              BB%%aaOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                              BB%%aaOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO##
+                              BBaaaaaaOOOOOOOOOOOOOOOOOOOOOOOOOOOO####
+                                aaaaaaaaOOOOOOOOOOOOOOOOOOOOOOOO######
+                                ooaaaaaaaaOOOOOOOOOOOOOOOOOOOOOO######
+                                ooooaaaaaaOOOOOOOOOOOOOOOOOOOO######
+                                  ooooaaaaaaOOOOOOOOOOOOOOOO######
+                                    ooooaaaaaaOOOOOOOOOOOO######
+                                        ooaaaaOOOOOOOOOOOO####
+                                            aaaaOOOOOOOO####
+                                                aaOOOO##
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    OO
+                                                hhhhOOOO
+                                            hhhhhhOOOOOO8888
+                                        hhhhhhhhOOOOOOOOOO8888
+                                    hhhhhhhhhhOOOOOOOOOOOOOO8888
+                                  hhhhhhhhhhhhOOOOOOOOOOOOOOOO8888
+                              hhhhhhhhhhhhhhOOOOOOOOOOOOOOOOOOOO8888
+                              %%hhhhhhhhhhOOOOOOOOOOOOOOOOOOOOOO888888
+                              %%hhhhhhhhhhOOOOOOOOOOOOOOOOOOOOOOOO8888
+                              %%88hhhhhhOOOOOOOOOOOOOOOOOOOOOOOOOOOO88
+                              %%88hhhhOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8888
+                              %%8888hhOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO88
+                              %%8888OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                              %%8888hhOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWW
+                              %%88hhhhOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWWWW
+                              %%88hhhhhhOOOOOOOOOOOOOOOOOOOOOOOOOOOOWW
+                              %%hhhhhhhhhhOOOOOOOOOOOOOOOOOOOOOOOOWWWW
+                              %%hhhhhhhhhhOOOOOOOOOOOOOOOOOOOOOOWWWWWW
+                                hhhhhhhhhhhhOOOOOOOOOOOOOOOOOOOOWWWW
+                                  hhhhhhhhhhhhOOOOOOOOOOOOOOOOWWWW
+                                    hhhhhhhhhhOOOOOOOOOOOOOOWWWW
+                                        hhhhhhhhOOOOOOOOOOWWWW
+                                            hhhhhhOOOOOOWWWW
+                                                hhhhOOOO
+                                                    OO
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                kkkkZZZZ%%
+                                            kkkkkkZZZZZZZZ%%
+                                        kkkkkkkkkkZZZZZZZZZZ%%
+                                    kkkkkkkkkkkkZZZZZZZZZZZZ%%%%
+                                kkkkkkkkkkkkkkZZZZZZZZZZZZZZZZ%%%%
+                              kkkkkkkkkkkkbbbbZZZZZZZZZZZZZZZZZZ%%%%
+                              &&kkkkkkkkbbbbZZZZZZZZZZZZZZZZZZZZZZ%%%%
+                              &&&&kkkkbbbbZZZZZZZZZZZZZZZZZZZZZZZZ%%%%
+                              &&&&kkbbbbbbZZZZZZZZZZZZZZZZZZZZZZZZZZ%%%%
+                              &&&&&&bbbbZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ%%
+                              &&&&&&bbbbZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                              &&&&&&&&ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                              &&&&&&bbbbZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                              &&&&&&bbbbZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ&&
+                              &&&&kkbbbbbbZZZZZZZZZZZZZZZZZZZZZZZZZZ&&&&
+                              &&&&kkkkbbbbZZZZZZZZZZZZZZZZZZZZZZZZ&&&&
+                              &&kkkkkkkkbbbbZZZZZZZZZZZZZZZZZZZZZZ&&&&
+                              kkkkkkkkkkkkbbbbZZZZZZZZZZZZZZZZZZ&&&&
+                                kkkkkkkkkkkkkkZZZZZZZZZZZZZZZZ&&&&
+                                    kkkkkkkkkkkkZZZZZZZZZZZZ&&&&
+                                        kkkkkkkkkkZZZZZZZZZZ&&
+                                            kkkkkkZZZZZZZZ&&
+                                                kkkkZZZZ&&
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      mm
+                                                  ddddmm%%
+                                            ddddddddmmmmmmBB
+                                        ddddddddddZZZZmmmmmmBB
+                                    ddddddddddddddZZZZZZZZmmmmBB
+                                ddddddddddddddddZZZZZZZZZZZZmmmmBB
+                              ddddddddddddddddZZZZZZZZZZZZZZZZZZ%%BB
+                              WWddddddddddddddZZZZZZZZZZZZZZZZZZZZ%%
+                              WWWWddddddddddZZZZZZZZZZZZZZZZZZZZZZZZBB
+                              WWWWWWddddddddZZZZZZZZZZZZZZZZZZZZZZZZZZBB
+                              WWWWWWddddddZZZZZZZZZZZZZZZZZZZZZZZZZZZZ%%
+                              WWWWWWWWddZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                              WWWWWWWWWWZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                              WWWWWWWWddZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+                              WWWWWWddddddZZZZZZZZZZZZZZZZZZZZZZZZZZZZ88
+                              WWWWWWddddddddZZZZZZZZZZZZZZZZZZZZZZZZZZ88
+                              WWWWddddddddddZZZZZZZZZZZZZZZZZZZZZZZZ88
+                              WWddddddddddddddZZZZZZZZZZZZZZZZZZZZ88
+                              ddddddddddddddddZZZZZZZZZZZZZZZZZZ8888
+                                ddddddddddddddddZZZZZZZZZZZZmmmm88
+                                    ddddddddddddddZZZZZZZZmmmm88
+                                        ddddddddddZZZZmmmmmm88
+                                            ddddddddmmmmmm88
+                                                  ddddmm88
+                                                      mm
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  ppppmmmm
+                                            ppppppppppmmmmmm
+                                        ppppppppppppmmmmmmmmBB
+                                    ppppppppppppppmmmmmmmmmmmmBB
+                                ppppppppppppppppppmmmmmmmmmmmmmmBB
+                              MMppppppppppppppppmmmmmmmmmmmmmmmmmm
+                              MMppppppppppppppppmmmmmmmmmmmmmmmmmmmm
+                              MM##ppppppppppppmmmmmmmmmmmmmmmmmmmmmmBB
+                              MM####ppppppppppmmmmmmmmmmmmmmmmmmmmmmmmBB
+                              MM######ppppppmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+                              MM########ppppmmmmmmmmmmmmmmmmmmmmmmmmmmmmBB
+                              MM##########mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+                              MM########ppppmmmmmmmmmmmmmmmmmmmmmmmmmmmm%%
+                              MM######ppppppmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+                              MM####ppppppppppmmmmmmmmmmmmmmmmmmmmmmmm%%
+                              MM##ppppppppppppmmmmmmmmmmmmmmmmmmmmmm%%
+                              MMppppppppppppppppmmmmmmmmmmmmmmmmmmmm
+                              MMppppppppppppppppmmmmmmmmmmmmmmmmmm
+                                ppppppppppppppppppmmmmmmmmmmmmmm%%
+                                    ppppppppppppppmmmmmmmmmmmm%%
+                                        ppppppppppppmmmmmmmm%%
+                                            ppppppppppmmmmmm
+                                                  ppppmmmm
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  qqqqqqww
+                                              qqqqqqqqwwwwww
+                                        qqqqqqqqqqqqqqwwwwwwww
+                                    qqqqqqqqqqqqqqqqwwwwwwwwwwww
+                                qqqqqqqqqqqqqqqqqqqqwwwwwwwwwwww@@
+                              **qqqqqqqqqqqqqqqqqqwwwwwwwwwwwwwwww
+                              ****qqqqqqqqqqqqqqqqwwwwwwwwwwwwwwwwww
+                              ******qqqqqqqqqqqqwwwwwwwwwwwwwwwwwwwwww
+                              ********qqqqqqqqqqwwwwwwwwwwwwwwwwwwwwww
+                              **********qqqqqqwwwwwwwwwwwwwwwwwwwwwwwwww
+                              ************qqqqwwwwwwwwwwwwwwwwwwwwwwwwwwww
+                              **************wwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+                              ************qqqqwwwwwwwwwwwwwwwwwwwwwwwwwwww
+                              **********qqqqqqwwwwwwwwwwwwwwwwwwwwwwwwww
+                              ********qqqqqqqqqqwwwwwwwwwwwwwwwwwwwwww
+                              ******qqqqqqqqqqqqwwwwwwwwwwwwwwwwwwwwww
+                              ****qqqqqqqqqqqqqqqqwwwwwwwwwwwwwwwwww
+                              **qqqqqqqqqqqqqqqqqqwwwwwwwwwwwwwwww
+                                qqqqqqqqqqqqqqqqqqqqwwwwwwwwwwwwBB
+                                    qqqqqqqqqqqqqqqqwwwwwwwwwwww
+                                        qqqqqqqqqqqqqqwwwwwwww
+                                              qqqqqqqqwwwwww
+                                                  qqqqqqww
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    wwwwpppp
+                                              wwwwwwwwwwpppp
+                                        wwwwwwwwwwwwwwpppppppp
+                                    wwwwwwwwwwwwwwwwwwpppppppppp
+                              wwwwwwwwwwwwwwwwwwwwwwpppppppppppppp
+                              aawwwwwwwwwwwwwwwwwwwwqqpppppppppppp
+                              aaaawwwwwwwwwwwwwwwwwwqqqqpppppppppppp
+                              aaaaaaaawwwwwwwwwwwwqqqqqqqqpppppppppppp
+                              aaaaaaaaaawwwwwwwwwwqqqqqqqqqqpppppppppppp
+                              aaaaaaaaaaaawwwwwwqqqqqqqqqqqqqqpppppppppp
+                              aaaaaaaaaaaaaawwwwqqqqqqqqqqqqqqqqpppppppppp
+                              aaaaaaaaaaaaaaaaqqqqqqqqqqqqqqqqqqpppppppppppp
+                              aaaaaaaaaaaaaawwwwqqqqqqqqqqqqqqqqpppppppppp
+                              aaaaaaaaaaaawwwwwwqqqqqqqqqqqqqqpppppppppp
+                              aaaaaaaaaawwwwwwwwwwqqqqqqqqqqpppppppppppp
+                              aaaaaaaawwwwwwwwwwwwqqqqqqqqpppppppppppp
+                              aaaawwwwwwwwwwwwwwwwwwqqqqpppppppppppp
+                              aawwwwwwwwwwwwwwwwwwwwqqpppppppppppp
+                              wwwwwwwwwwwwwwwwwwwwwwpppppppppppppp
+                                    wwwwwwwwwwwwwwwwwwpppppppppp
+                                        wwwwwwwwwwwwwwpppppppp
+                                              wwwwwwwwwwpppp
+                                                    wwwwpppp
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    mmmmmmdd
+                                              mmmmmmmmmmdddddd
+                                        mmmmmmmmmmmmmmmmdddddd
+                                    mmmmmmmmmmmmmmmmmmmmdddddddd
+                              mmmmmmmmmmmmmmmmmmmmmmmmdddddddddddd
+                              kkkkmmmmmmmmmmmmmmmmmmmmdddddddddddddd
+                              kkkkkkmmmmmmmmmmmmmmmmdddddddddddddddd
+                              kkkkkkkkmmmmmmmmmmmmmmdddddddddddddddddd
+                              kkkkkkkkkkkkmmmmmmmmmmdddddddddddddddddddd
+                              kkkkkkkkkkkkkkmmmmmmdddddddddddddddddddddd
+                              kkkkkkkkkkkkkkkkmmmmdddddddddddddddddddddddd
+                              kkkkkkkkkkkkkkkkkkkkdddddddddddddddddddddddddd
+                              kkkkkkkkkkkkkkkkmmmmdddddddddddddddddddddddd
+                              kkkkkkkkkkkkkkmmmmmmdddddddddddddddddddddd
+                              kkkkkkkkkkkkmmmmmmmmmmdddddddddddddddddddd
+                              kkkkkkkkmmmmmmmmmmmmmmdddddddddddddddddd
+                              kkkkkkmmmmmmmmmmmmmmmmdddddddddddddddd
+                              kkkkmmmmmmmmmmmmmmmmmmmmdddddddddddddd
+                              mmmmmmmmmmmmmmmmmmmmmmmmdddddddddddd
+                                    mmmmmmmmmmmmmmmmmmmmdddddddd
+                                        mmmmmmmmmmmmmmmmdddddd
+                                              mmmmmmmmmmdddddd
+                                                    mmmmmmdd
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      ZZZZbb
+                                              ZZZZZZZZZZZZbbbb
+                                        ZZZZZZZZZZZZZZZZZZbbbbbb
+                                  ZZZZZZZZZZZZZZZZZZZZZZbbbbbbbb
+                              bbZZZZZZZZZZZZZZZZZZZZZZZZbbbbbbbbbb
+                              bbbbZZZZZZZZZZZZZZZZZZZZZZbbbbbbbbbbbb
+                              bbbbbbbbZZZZZZZZZZZZZZZZbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbZZZZZZZZZZZZZZbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbbbbbZZZZZZZZZZbbbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbbbbbddZZZZZZbbbbbbbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbbbbbddddZZZZbbbbbbbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbbbbbddddddddbbbbbbbbbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbbbbbddddZZZZbbbbbbbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbbbbbddZZZZZZbbbbbbbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbbbbbZZZZZZZZZZbbbbbbbbbbbbbbbbbb
+                              bbbbbbbbbbZZZZZZZZZZZZZZbbbbbbbbbbbbbbbb
+                              bbbbbbbbZZZZZZZZZZZZZZZZbbbbbbbbbbbbbbbb
+                              bbbbZZZZZZZZZZZZZZZZZZZZZZbbbbbbbbbbbb
+                              bbZZZZZZZZZZZZZZZZZZZZZZZZbbbbbbbbbb
+                                  ZZZZZZZZZZZZZZZZZZZZZZbbbbbbbb
+                                        ZZZZZZZZZZZZZZZZZZbbbbbb
+                                              ZZZZZZZZZZZZbbbb
+                                                      ZZZZbb
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      ZZZZZZ
+                                                ZZZZZZZZZZhhhh
+                                        ZZZZZZZZZZZZZZZZZZhhhhhh
+                                  ZZZZZZZZZZZZZZZZZZZZZZZZhhhhhhhh
+                                ZZZZZZZZZZZZZZZZZZZZZZZZZZhhhhhhhh
+                                ppppZZZZZZZZZZZZZZZZZZZZhhhhhhhhhhhh
+                                ppppppZZZZZZZZZZZZZZZZZZhhhhhhhhhhhhhh
+                                ppppppppppZZZZZZZZZZZZZZhhhhhhhhhhhhhh
+                                ppppppppppppZZZZZZZZZZZZhhhhhhhhhhhhhhhh
+                                ppppppppppppppppOOOOOOkkhhhhhhhhhhhhhhhhhh
+                                ppppppppppppppppppOOOOkkkkhhhhhhhhhhhhhhhh
+                                ppppppppppppppppppppppkkkkkkhhhhhhhhhhhhhhhh
+                                ppppppppppppppppppOOOOkkkkhhhhhhhhhhhhhhhh
+                                ppppppppppppppppOOOOOOkkhhhhhhhhhhhhhhhhhh
+                                ppppppppppppZZZZZZZZZZZZhhhhhhhhhhhhhhhh
+                                ppppppppppZZZZZZZZZZZZZZhhhhhhhhhhhhhh
+                                ppppppZZZZZZZZZZZZZZZZZZhhhhhhhhhhhhhh
+                                ppppZZZZZZZZZZZZZZZZZZZZhhhhhhhhhhhh
+                                ZZZZZZZZZZZZZZZZZZZZZZZZZZhhhhhhhh
+                                  ZZZZZZZZZZZZZZZZZZZZZZZZhhhhhhhh
+                                        ZZZZZZZZZZZZZZZZZZhhhhhh
+                                                ZZZZZZZZZZhhhh
+                                                      ZZZZZZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        OOOOaa
+                                                OOOOOOOOOOOOaa
+                                        OOOOOOOOOOOOOOOOOOOOaaaa
+                                  OOOOOOOOOOOOOOOOOOOOOOOOOOaaaaaa
+                                wwOOOOOOOOOOOOOOOOOOOOOOOOaaaaaaaa
+                                wwwwOOOOOOOOOOOOOOOOOOOOOOaaaaaaaaaa
+                                wwwwwwwwOOOOOOOOOOOOOOOOOOaaaaaaaaaaaa
+                                wwwwwwwwwwwwOOOOOOOOOOOOOOaaaaaaaaaaaa
+                                wwwwwwwwwwwwwwOOOOOOOOOOOOaaaaaaaaaaaaaa
+                                wwwwwwwwwwwwwwwwwwOOOOOOOOaaaaaaaaaaaaaaaa
+                                wwwwwwwwwwwwwwwwwwwwwwOOaaaaaaaaaaaaaaaaaa
+                                wwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaa
+                                wwwwwwwwwwwwwwwwwwwwwwOOaaaaaaaaaaaaaaaaaa
+                                wwwwwwwwwwwwwwwwwwOOOOOOOOaaaaaaaaaaaaaaaa
+                                wwwwwwwwwwwwwwOOOOOOOOOOOOaaaaaaaaaaaaaa
+                                wwwwwwwwwwwwOOOOOOOOOOOOOOaaaaaaaaaaaa
+                                wwwwwwwwOOOOOOOOOOOOOOOOOOaaaaaaaaaaaa
+                                wwwwOOOOOOOOOOOOOOOOOOOOOOaaaaaaaaaa
+                                wwOOOOOOOOOOOOOOOOOOOOOOOOaaaaaaaa
+                                  OOOOOOOOOOOOOOOOOOOOOOOOOOaaaaaa
+                                        OOOOOOOOOOOOOOOOOOOOaaaa
+                                                OOOOOOOOOOOOaa
+                                                        OOOOaa
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          OOOO
+                                                OOOOOOOOOOOO****
+                                        OOOOOOOOOOOOOOOOOOOO****
+                                  OOOOOOOOOOOOOOOOOOOOOOOOOO******
+                                mmOOOOOOOOOOOOOOOOOOOOOOOOOO********
+                                mmmmmmOOOOOOOOOOOOOOOOOOOOOO********
+                                mmmmmmmmmmOOOOOOOOOOOOOOOOOO**********
+                                mmmmmmmmmmmmmmOOOOOOOOOOOOOO**********
+                                mmmmmmmmmmmmmmmmOOOOOOOOOOOOoo**********
+                              ..mmmmmmmmmmmmmmmmmmmmOOOOOOOOoo************
+                              ..mmmmmmmmmmmmmmmmmmmmmmmmOOoooooo**********
+                                mmmmmmmmmmmmmmmmmmmmmmmmmmoooooooo**********
+                                mmmmmmmmmmmmmmmmmmmmmmmmOOoooooo**********
+                                mmmmmmmmmmmmmmmmmmmmOOOOOOOOoo************
+                                mmmmmmmmmmmmmmmmOOOOOOOOOOOOoo**********
+                                mmmmmmmmmmmmmmOOOOOOOOOOOOOO**********
+                                mmmmmmmmmmOOOOOOOOOOOOOOOOOO**********
+                                mmmmmmOOOOOOOOOOOOOOOOOOOOOO********
+                                mmOOOOOOOOOOOOOOOOOOOOOOOOOO********
+                                  OOOOOOOOOOOOOOOOOOOOOOOOOO******
+                                        OOOOOOOOOOOOOOOOOOOO****
+                                                OOOOOOOOOOOO****
+                                                          OOOO
+
+
+
+
+
+
+
+
+
+
+
+
+
+frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          OOOO
+                                                OOOOOOOOOOOOOO##
+                                        OOOOOOOOOOOOOOOOOOOOOO##
+                                  OOOOOOOOOOOOOOOOOOOOOOOOOOOO####
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO########
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO########
+                              %%%%OOOOOOOOOOOOOOOOOOOOOOOOOOOO##########
+                              %%%%OOOOOOOOOOOOOOOOOOOOOOOOOOOO############
+                              %%%%OOOOOOOOOOOOOOOOOOOOOOOOOO##############
+                              %%%%OOOOOOOOOOOOOOOOOOOOOOOOOO################
+                              %%%%OOOOOOOOOOOOOOOOOOOOOOOOOO##############
+                              %%%%OOOOOOOOOOOOOOOOOOOOOOOOOOOO############
+                              %%%%OOOOOOOOOOOOOOOOOOOOOOOOOOOO##########
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO########
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO########
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+                                %%OOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+                                  OOOOOOOOOOOOOOOOOOOOOOOOOOOO####
+                                        OOOOOOOOOOOOOOOOOOOOOO##
+                                                OOOOOOOOOOOOOO##
+                                                          OOOO
+
+
+
+
+
+
+
+
+
+
+
+
